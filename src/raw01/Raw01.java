@@ -7,7 +7,7 @@ package raw01;
 
 /**
  *
- * @author fjrobin
+ * @author fjrobin & his company
  */
 public class Raw01 {
 
